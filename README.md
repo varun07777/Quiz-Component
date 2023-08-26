@@ -1,2 +1,2 @@
 # Quiz-Component
-QUiz COmponent using Angular and Spring Boot 
+Quiz Component using Angular and Spring Boot 
